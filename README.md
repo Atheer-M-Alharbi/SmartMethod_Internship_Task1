@@ -9,7 +9,7 @@ the first part is to write an algorithms to run ESP32, the second part is to wor
 ### Task 1.2: Speech to text website.
 - Used Html, CSS, JavaScrite, and Web Speech API to accomplish the task.
 - Screenshot of the interface:
-![](image.png)
+![](Task1.2/image.png)
 
 
 

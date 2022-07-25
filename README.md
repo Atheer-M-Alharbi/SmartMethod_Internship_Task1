@@ -1,14 +1,13 @@
 # Smart Method Internship Task 1
 
-The first task in IOT and data science track consist of two parts.
-the first part is to write an algorithms to run ESP32, the second part is to work on speech to text website.
-
 ### Task 1.1: Run and connect an ESP32 to Wi-Fi.
 - The algorithms steps can be found in Task1.1/Task 1.1.pdf file. 
 
 ### Task 1.2: Speech to text website.
-- Used Html, CSS, JavaScrite, and Web Speech API to accomplish the task.
+- Used Html, CSS, and javascript to build the website and Web Speech API for voice recognition.
+- Web Speech API: https://developer.mozilla.org/en-US/docs/Web/API/SpeechRecognition
 - Screenshot of the interface:
+
 ![](Task1.2/image.png)
 
 

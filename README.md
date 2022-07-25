@@ -1,4 +1,4 @@
-# Smart Method Internship Task 1
+# Smart Methods Internship Task 1
 
 ### Task 1.1: Run and connect an ESP32 to Wi-Fi.
 - The algorithms steps can be found in Task1.1/Task 1.1.pdf file. 
